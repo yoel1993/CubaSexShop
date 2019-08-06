@@ -23,6 +23,13 @@
    "cantidad": "3"
   },
   {
+   "name": "Lubricante Sabor",
+   "urlphoto": "https://raw.githubusercontent.com/yoel1993/CubaSexShop/master/Imagenes/lub_sabor.png",
+   "price": "28 CUC",
+   "description": "Lubricantes de Sabor a base de agua de 240ml. Puede ser usado con condones. Fácil de limpiar con agua. Gel suave sedoso. No manchas. Sin olor, sin color, sin grasa, sin azúcar, sin paraban. Fabricado en los Estados Unidos",
+   "cantidad": "5"
+  },
+  {
    "name": "Lubricante 240ml",
    "urlphoto": "https://raw.githubusercontent.com/yoel1993/CubaSexShop/master/Imagenes/lub_240.png",
    "price": "25 CUC",
